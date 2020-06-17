@@ -5,6 +5,7 @@ import App from "./App.vue";
 import { routes } from "./routes";
 
 Vue.config.productionTip = false;
+Vue.config.devtools = false;
 
 Vue.use(VueRouter);
 
