@@ -55,7 +55,7 @@ Task automation is based on [Yarn scripts](https://yarnpkg.com/lang/en/docs/cli/
 
 
 ## Built with
-* <img width=20 height=20 src="https://vuejs.org/images/icons/favicon-32x32.png"> [VueJS](https://vuejs.org//) - Web Framework
+* <img width=20 height=20 src="https://vuejs.org/images/icons/favicon-32x32.png"> [VueJS + Router + Vuex](https://vuejs.org//) - Web Framework
 * <img width=20 height=20 src="https://www.typescriptlang.org/assets/images/icons/favicon-32x32.png"> [TypeScript](https://www.typescriptlang.org/) - Language syntax
 * <img width=20 height=20 src="https://sass-lang.com/favicon.ico"> [Sassy CSS (SCSS)](https://sass-lang.com/) - CSS pre-processor
 * <img width=20 height=20 src="https://yarnpkg.com/icons/icon-48x48.png"> [Yarn](https://yarnpkg.com/) - Package Manager
