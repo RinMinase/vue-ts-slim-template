@@ -2,7 +2,7 @@ import { RouteConfig } from "vue-router";
 
 import Home from "./views/home/home.vue";
 
-export const routes: Array<RouteConfig> = [
+const routes: Array<RouteConfig> = [
 	{
 		path: "/",
 		name: "Home",
@@ -15,3 +15,5 @@ export const routes: Array<RouteConfig> = [
 			import(/* webpackChunkName: "about" */ "./views/about/about.vue"),
 	},
 ];
+
+export default routes;
