@@ -10,11 +10,12 @@ A test VueJS project in Typescript reduced to its bare minimum while still retai
 
 2. This project uses Yarn instead of NPM. [Download](https://yarnpkg.com/latest.msi) Yarn. This is a faster package manager than the default `npm` one, likewise also manages your dependencies and handles its updates way better.
 
-3. Clone the project and modify the ENV file based on your Firebase configuration
+3. Clone the project and copy the ENV file
 
     ```
     git clone https://github.com/RinMinase/vue-ts-test-project.git vue-ts
     cd vue-ts
+    cp .env.example .env
     ```
 
 4. Install the dependencies then run the project
