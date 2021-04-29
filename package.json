@@ -5,10 +5,8 @@
   "scripts": {
     "start": "vue-cli-service serve --port 3000",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
-  },
-  "husky": {
-    "pre-commit": "npm run lint"
+    "lint": "vue-cli-service lint",
+    "prepare": "husky install"
   },
   "dependencies": {
     "core-js": "^3.11.1",
@@ -32,7 +30,7 @@
     "eslint": "^7.25.0",
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-vue": "^7.9.0",
-    "husky": "^4.2.5",
+    "husky": "^6.0.0",
     "node-sass": "^5.0.0",
     "prettier": "^2.2.1",
     "sass-loader": "^10.1.1",
